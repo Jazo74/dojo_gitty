@@ -3,3 +3,5 @@ def introduce():
 
 def joke():
     print("knock knock")
+def add(a, b):
+    return a + b
